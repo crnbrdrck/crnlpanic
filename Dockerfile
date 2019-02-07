@@ -10,6 +10,10 @@ COPY . .
 # Install requirements
 RUN pip install -r requirements.txt
 
+# Load the latest submodules
+RUN git submodule init
+RUN git submodule update --remote
+
 # Expose port 5000
 EXPOSE 5000
 
