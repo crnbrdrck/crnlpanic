@@ -1,9 +1,9 @@
 [submodule "techtalks/css"]
 	path = techtalks/css
-	url = https://github.com/crnbrdrck/netsoc-css-talk.git
+	url = https://github.com/freyamade/netsoc-css-talk.git
 [submodule "techtalks/languages"]
 	path = techtalks/languages
-	url = https://github.com/crnbrdrck/netsoc-languages-talk.git
+	url = https://github.com/freyamade/netsoc-languages-talk.git
 [submodule "techtalks/docker"]
 	path = techtalks/docker
-	url = https://github.com/crnbrdrck/netsoc-docker-talk.git
+	url = https://github.com/freyamade/netsoc-docker-talk.git

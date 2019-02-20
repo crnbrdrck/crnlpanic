@@ -2,7 +2,7 @@
 FROM python:3.7
 
 # Set the working directory inside the image
-WORKDIR /home/crnlpanic/public_html
+WORKDIR /home/freyamade/public_html
 
 # Copy from the build context to the image
 COPY . .
